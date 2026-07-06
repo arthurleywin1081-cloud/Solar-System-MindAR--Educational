@@ -40,7 +40,7 @@ const SUN_RADIUS         = 2.925;  // 2.25 × 1.30
 const EARTH_RADIUS       = 1.0;   // 0.6  × 1.25
 const MOON_RADIUS        = 0.45;   // 0.2  × 1.25
 const EARTH_ORBIT_RADIUS = 12.0;
-const MOON_ORBIT_RADIUS  = 1.5;
+const MOON_ORBIT_RADIUS  = 3.0;
 const EARTH_AXIAL_TILT_RAD = THREE.MathUtils.degToRad(23.5);
 const MOON_ORBITAL_TILT_RAD = THREE.MathUtils.degToRad(5.1);
 
